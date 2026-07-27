@@ -72,7 +72,8 @@ async function dbDelete(reportId) {
 
 var OFFICE_CODES = {
   "101783": { name:"UIIC MO PANDALAM",       email:"101783mopandalam@gmail.com" },
-  "300502": { name:"UIIC BO SULTHAN BATHERY", email:"uibathery@gmail.com"        },
+  "300502": { name:"UIIC BO SULTHAN BATHERY", email:"uibathery@gmail.com"},
+"300401": { name:"UIIC BO BADAGARA", email:"300401.vadakara@gmail.com"},
 };
 
 const PHOTO_SLOTS = [
