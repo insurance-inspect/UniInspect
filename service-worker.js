@@ -1,7 +1,7 @@
 // UniInspect Service Worker
 // Caches app for offline use
 
-const CACHE_NAME = "uninspect-v21";
+const CACHE_NAME = "uninspect-v22";
 const URLS_TO_CACHE = [
   "/UniInspect/",
   "/UniInspect/index.html",
