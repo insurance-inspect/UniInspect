@@ -20,6 +20,12 @@ var OFFICE_CODES = {
     senderEmail: "101783mopandalam.sender@gmail.com",
     brevoKey   : _b("eGtleXNpYi02OTRlMzA5MmVkYjJjOTZhZjBlZDk=","ZTRiODBkNmQxZDIzNTEwODg5NThhODA4NDg0ZjRj","YjkwYmMxOTJjOTMxNC1qSWY1QTNKTkFkRm9yeUdq"),
   },
+  "300502": {
+    name       : "UIIC BO SULTHAN BATHERY",
+    email      : "uibathery@gmail.com",
+    senderEmail: "101783mopandalam.sender@gmail.com",
+    brevoKey   : _b("eGtleXNpYi02OTRlMzA5MmVkYjJjOTZhZjBlZDk=","ZTRiODBkNmQxZDIzNTEwODg5NThhODA4NDg0ZjRj","YjkwYmMxOTJjOTMxNC1qSWY1QTNKTkFkRm9yeUdq"),
+  },
 };
 
 // ── Photo Slots ───────────────────────────────────────────────
