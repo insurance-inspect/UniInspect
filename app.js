@@ -414,7 +414,7 @@ function AdminPanel(props){
   async function loadStats(){
     setLoading(true);
     try{
-      var resp=await fetch(BACKEND_URL+"?action=getStats");
+      var resp=await fetch(BACKEND_URL+"?action=getStats&t="+Date.now());
       var data=await resp.json();
       setStats(data&&!data.error?data:{});
     }catch(e){setStats({});}
