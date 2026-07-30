@@ -28,7 +28,7 @@ var OFFICE_CODES = {
   },
    "300501": {
     name       : "UIIC BO KALPETTA",
-    email      : "uiinspection@gmail.com",
+    email      : "uiicinspection@gmail.com",
     senderEmail: "101783mopandalam.sender@gmail.com",
     brevoKey   : _b("eGtleXNpYi02OTRlMzA5MmVkYjJjOTZhZjBlZDk=","ZTRiODBkNmQxZDIzNTEwODg5NThhODA4NDg0ZjRj","YjkwYmMxOTJjOTMxNC1qSWY1QTNKTkFkRm9yeUdq"),
   },
