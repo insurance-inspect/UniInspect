@@ -29,7 +29,7 @@ var OFFICE_CODES = {
     email      : "uibathery@gmail.com",
     senderEmail: "101783mopandalam.sender@gmail.com",
     brevoKey   : _b("eGtleXNpYi02OTRlMzA5MmVkYjJjOTZhZjBlZDk=","ZTRiODBkNmQxZDIzNTEwODg5NThhODA4NDg0ZjRj","YjkwYmMxOTJjOTMxNC1qSWY1QTNKTkFkRm9yeUdq"),
-telegramChatId: "-5326436549",
+telegramChatId: "-1004477418767",
   },
   "300501": {
     name       : "UIIC BO KALPETTA",
