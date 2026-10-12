@@ -37,6 +37,12 @@ telegramChatId: "-1004477418767",
     senderEmail: "101783mopandalam.sender@gmail.com",
     brevoKey   : _b("eGtleXNpYi02OTRlMzA5MmVkYjJjOTZhZjBlZDk=","ZTRiODBkNmQxZDIzNTEwODg5NThhODA4NDg0ZjRj","YjkwYmMxOTJjOTMxNC1qSWY1QTNKTkFkRm9yeUdq"),
   },
+130202": {
+    name       : "UIIC BO BIJOYNAGAR",
+    email      : "sssubra2011@gmail.com",
+    senderEmail: "101783mopandalam.sender@gmail.com",
+    brevoKey   : _b("eGtleXNpYi02OTRlMzA5MmVkYjJjOTZhZjBlZDk=","ZTRiODBkNmQxZDIzNTEwODg5NThhODA4NDg0ZjRj","YjkwYmMxOTJjOTMxNC1qSWY1QTNKTkFkRm9yeUdq"),
+  },
 };
 
 // ── Photo Slots ───────────────────────────────────────────────
